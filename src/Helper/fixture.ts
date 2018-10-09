@@ -1,0 +1,21 @@
+export const raceItem = {
+  EventID: 30431079,
+  MasterEventID: 1049998,
+  EventName: 'Lucky Creed',
+  EventTypeDesc: 'Trots',
+  MasterEventName: 'Races',
+  AdvertisedStartTime: '2018-10-08T12:29:30Z',
+  RaceNumber: 3,
+  EventType: {
+    EventTypeID: 2,
+    EventTypeDesc: 'Trots',
+    MasterEventTypeID: 1,
+    Slug: 'harness-racing',
+  },
+  Venue: { Venue: 'Albion Park', StateCode: 'QLD', Slug: 'albion-park' },
+  IsMultiAllowed: true,
+  Slug: 'lucky-creed-qualifying-pace',
+  DateSlug: '20180910',
+  RacingStreamAllowed: false,
+  RacingReplayStreamAllowed: false,
+};
