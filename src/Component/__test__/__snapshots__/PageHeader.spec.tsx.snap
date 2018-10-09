@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageHeader should render correctly in default state 1`] = `
+<styled.div>
+  <styled.div>
+    <Styled(Component) />
+  </styled.div>
+  <styled.div>
+    <ul>
+      <li>
+        <span>
+          <Component />
+        </span>
+        <h1>
+          Racing
+        </h1>
+      </li>
+    </ul>
+  </styled.div>
+</styled.div>
+`;

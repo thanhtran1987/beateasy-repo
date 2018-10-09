@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter should render correctly in default state 1`] = `
+<styled.div>
+  <styled.button
+    className=""
+    onClick={[Function]}
+  >
+    All
+  </styled.button>
+  <styled.button
+    className=""
+    onClick={[Function]}
+  >
+    <Component />
+  </styled.button>
+  <styled.button
+    className=""
+    onClick={[Function]}
+  >
+    <Component />
+  </styled.button>
+  <styled.button
+    className=""
+    onClick={[Function]}
+  >
+    <Component />
+  </styled.button>
+</styled.div>
+`;

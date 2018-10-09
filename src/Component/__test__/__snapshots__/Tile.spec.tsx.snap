@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tile should render correctly in default state 1`] = `
+<styled.div>
+  <styled.div>
+    <Component />
+  </styled.div>
+  <styled.div>
+    <div>
+      <styled.div>
+        Lucky Creed
+      </styled.div>
+      <styled.div>
+        Race 
+        3
+      </styled.div>
+    </div>
+    <styled.div>
+      Expired
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;
